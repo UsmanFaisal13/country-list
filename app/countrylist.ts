@@ -14,5 +14,15 @@ export const countries = [
         name: "Srilanka",
         population: "23,137,121",
         capital: "Colombo",
+    },
+    {
+        name: "China",
+        population: "1,418,423,847",
+        capital: "Beijing",
+    },
+    {
+        name: "Japan",
+        population: "123,572,100",
+        capital: "Tokyo",
     }
 ];
