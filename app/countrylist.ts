@@ -1,18 +1,18 @@
 export const countries = [
     {
         name: "Pakistan",
-        population: "220,892,330",
+        population: "252,264,244",
         capital: "Islamabad",
 
     },
     {
         name: "India",
-        population: "1,380,004,385",
+        population: "1,454,285,427",
         capital: "New Delhi",
     },
     {
         name: "Srilanka",
-        population: "21,919,000",
+        population: "23,137,121",
         capital: "Colombo",
     }
 ];
